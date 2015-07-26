@@ -1,0 +1,2 @@
+(function(){var a,b,c,d;a=function(){function a(a){this.array=a}return a.prototype.concat=function(){var a,b,c,d,e;for(a="",d=this.array,b=0,c=d.length;c>b;b++)e=d[b],a+=e;return a},a}(),b=["some","other","something else","   arst"],c=new a(b),console.log(c.concat()),(d=function(){return console.log("stuff")})()}).call(this);
+//# sourceMappingURL=application.js.map

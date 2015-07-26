@@ -1,0 +1,25 @@
+/* line 1, stdin */
+.message, .success, .error, .warning {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  color: #333; }
+
+/* line 8, stdin */
+.success {
+  border-color: green; }
+
+/* line 13, stdin */
+.error {
+  border-color: red; }
+
+/* line 18, stdin */
+.warning {
+  border-color: yellow; }
+
+/* line 2, stdin */
+body {
+  background-color: #cccccc; }
+
+
+/*# sourceMappingURL=application.css.map*/

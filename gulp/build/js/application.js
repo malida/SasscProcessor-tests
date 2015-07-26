@@ -1,0 +1,2 @@
+(function(){var n,t,o;n=function(){function n(n){this.array=n}return n.prototype.concat=function(){var n,t,o,r,c;for(n="",r=this.array,t=0,o=r.length;o>t;t++)c=r[t],n+=c;return n},n}(),t=["some","other","something else","   arst"],o=new n(t),console.log(o.concat())}).call(this),function(){var n;(n=function(){return console.log("stuff")})()}.call(this);
+//# sourceMappingURL=../maps/application.js.map

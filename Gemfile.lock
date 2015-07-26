@@ -1,0 +1,27 @@
+GIT
+  remote: git://github.com/malida/sprockets.git
+  revision: faec93c6c94d43a20b5a34cbb875bc5746675970
+  branch: sassc
+  specs:
+    sprockets (4.0.0)
+      rack (~> 1.0)
+
+GEM
+  specs:
+    ffi (1.9.10)
+    rack (1.6.4)
+    sass (3.4.16)
+    sassc (1.5.1)
+      bundler
+      ffi (~> 1.9.6)
+      sass (>= 3.3.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  sassc
+  sprockets!
+
+BUNDLED WITH
+   1.10.6
