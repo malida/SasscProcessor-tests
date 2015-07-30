@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/malida/sprockets.git
-  revision: feced659df873ef3b6cd39f1e5951fe361f69ae5
+  revision: 557c9e2d136f8bb5ca46a61ad2b7998cc2438d11
   branch: sassc
   specs:
     sprockets (4.0.0)
