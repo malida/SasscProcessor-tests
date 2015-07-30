@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/malida/sprockets.git
-  revision: 034e928aba288fa440ebd0aca157b7bf966a831e
+  revision: feced659df873ef3b6cd39f1e5951fe361f69ae5
   branch: sassc
   specs:
     sprockets (4.0.0)
@@ -12,11 +12,10 @@ GEM
     ffi (1.9.10)
     rack (1.6.4)
     sass (3.4.16)
-    sassc (1.5.1)
+    sassc (1.6.0)
       bundler
       ffi (~> 1.9.6)
       sass (>= 3.3.0)
-    tilt (2.0.1)
 
 PLATFORMS
   ruby
@@ -24,7 +23,6 @@ PLATFORMS
 DEPENDENCIES
   sassc
   sprockets!
-  tilt
 
 BUNDLED WITH
    1.10.6

@@ -9,4 +9,4 @@ end
 
 assets.append_path(File.join(project_root, 'stylesheets'))
 
-puts assets.find_asset('application.css')
+puts assets.find_asset('base.css')
